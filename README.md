@@ -1,0 +1,2 @@
+# testgo
+Start learning go
